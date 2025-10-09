@@ -29,4 +29,12 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0127-word-ladder) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->

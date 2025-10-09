@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0151-reverse-words-in-a-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -23,6 +24,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0151-reverse-words-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |

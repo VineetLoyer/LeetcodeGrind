@@ -7,6 +7,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0046-permutations) |
+| [0073-set-matrix-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0127-word-ladder) |
 ## String
 |  |
@@ -50,4 +52,8 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0199-binary-tree-right-side-view) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

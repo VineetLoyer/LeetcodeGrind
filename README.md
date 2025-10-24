@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0046-permutations) |
 | [0073-set-matrix-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0118-pascals-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0073-set-matrix-zeroes) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

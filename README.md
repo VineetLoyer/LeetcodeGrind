@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0046-permutations) |
@@ -26,6 +27,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0075-sort-colors) |
@@ -98,6 +100,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0088-merge-sorted-array) |

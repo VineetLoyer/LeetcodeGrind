@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0046-permutations) |
@@ -38,6 +39,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0169-majority-element) |

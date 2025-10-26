@@ -95,6 +95,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0050-powx-n) |
 | [3227-find-missing-and-repeated-values](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

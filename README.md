@@ -19,6 +19,7 @@
 | [0088-merge-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
@@ -44,6 +45,7 @@
 | [0001-two-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0229-majority-element-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3227-find-missing-and-repeated-values) |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0493-reverse-pairs) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->

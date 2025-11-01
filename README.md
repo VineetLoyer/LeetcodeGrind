@@ -34,6 +34,7 @@
 | [0031-next-permutation](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0908-middle-of-the-linked-list) |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0151-reverse-words-in-a-string) |
 ## Breadth-First Search

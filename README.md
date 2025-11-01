@@ -124,6 +124,7 @@
 | [0048-rotate-image](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0062-unique-paths) |
+| [1090-armstrong-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1090-armstrong-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3227-find-missing-and-repeated-values) |

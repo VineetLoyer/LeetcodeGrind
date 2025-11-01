@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
@@ -126,6 +127,7 @@
 | [0048-rotate-image](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0062-unique-paths) |
+| [0204-count-primes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0204-count-primes) |
 | [1090-armstrong-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1090-armstrong-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1585-the-kth-factor-of-n](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1585-the-kth-factor-of-n) |
@@ -191,6 +193,11 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0204-count-primes) |
 | [1585-the-kth-factor-of-n](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

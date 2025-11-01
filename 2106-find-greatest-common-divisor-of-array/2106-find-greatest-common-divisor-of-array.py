@@ -4,6 +4,9 @@ def gcd(a,b):
     return a
 class Solution:
     def findGCD(self, nums: List[int]) -> int:
-        num1 = min(nums)
-        num2 = max(nums)
-        return gcd(num1,num2)
+        # num1 = min(nums)
+        # num2 = max(nums)
+        nums.sort()
+        a = nums[0]
+        b = nums[-1]    
+        return gcd(a,b)

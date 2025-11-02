@@ -27,6 +27,7 @@
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0493-reverse-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@
 | [0048-rotate-image](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0074-search-a-2d-matrix) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
@@ -209,4 +211,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->

@@ -28,6 +28,7 @@
 | [0347-top-k-frequent-elements](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0948-sort-an-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -73,6 +74,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0344-reverse-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -114,6 +116,7 @@
 | [0118-pascals-triangle](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1013-fibonacci-number) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -252,4 +255,8 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0948-sort-an-array) |
+## Greedy
+|  |
+| ------- |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->

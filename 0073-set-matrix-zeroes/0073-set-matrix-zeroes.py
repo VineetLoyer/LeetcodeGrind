@@ -1,28 +1,30 @@
 class Solution:
     def setZeroes(self, matrix: List[List[int]]) -> None:
-        """
-        Do not return anything, modify matrix in-place instead.
-        """
-        rows,cols = len(matrix),len(matrix[0])
-        #placeholders for first row and first col
-        first_row_zero = any(matrix[0][j]==0 for j in range(cols))
-        first_col_zero = any(matrix[i][0]==0 for i in range(rows))
+        rows = len(matrix) #number of rows
+        cols = len(matrix[0]) #cols = numbner of elements in first row
 
-        #step2:traverse the matrix and set first row/col elements to 0 (first row and first col are placeholders)
-        for i in range(1,rows):
-            for j in range(1,cols):
-                if matrix[i][j]==0:
-                    matrix[0][j]=0
-                    matrix[i][0]=0
-        #step3: traverse the matrix and update the elements to 0, based on placeholders.
-        for i in range(1,rows):
-            for j in range(1,cols):
-                if matrix[0][j]==0 or matrix[i][0]==0:
-                    matrix[i][j]=0
-        #lastly, make the first row/col to 0, based on flag.
-        if first_row_zero:
-            for j in range(cols):
-                matrix[0][j]=0
-        if first_col_zero:
-            for i in range(rows):
-                matrix[i][0]=0
+        first_row_zeros = any(matrix[0][c]==0 for c in range(cols)) # True if first row has 0
+        first_col_zeros = any(matrix[r][0]==0 for r in range(rows)) # True if first col has 0
+
+        for r in range(1,rows):
+            for c in range(1,cols):
+                if matrix[r][c]==0:
+                    matrix[0][c]=0 # mark the corresponding first row and first col element as 0
+                    matrix[r][0]=0
+
+        for r in range(1,rows):
+            for c in range(1,cols):
+                if matrix[0][c]==0 or matrix[r][0]==0:
+                    matrix[r][c]=0
+ 
+        if first_row_zeros:
+            for c in range(cols):
+                matrix[0][c]=0
+        if first_col_zeros:
+            for r in range(rows):
+                matrix[r][0]=0
+
+
+
+
+        

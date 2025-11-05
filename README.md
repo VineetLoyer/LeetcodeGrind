@@ -21,6 +21,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0229-majority-element-ii) |
@@ -47,6 +48,7 @@
 | [0088-merge-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0908-middle-of-the-linked-list) |
@@ -153,6 +155,7 @@
 | [0050-powx-n](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0062-unique-paths) |
 | [0172-factorial-trailing-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0204-count-primes) |
 | [1013-fibonacci-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1013-fibonacci-number) |
 | [1090-armstrong-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1090-armstrong-number) |

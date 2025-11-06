@@ -38,6 +38,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## String
 |  |
 | ------- |
@@ -87,6 +89,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0199-binary-tree-right-side-view) |
+| [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
@@ -103,6 +106,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0199-binary-tree-right-side-view) |
+| [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -207,10 +211,12 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0493-reverse-pairs) |
+| [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## Union Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0128-longest-consecutive-sequence) |
+| [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -253,6 +259,7 @@
 | [0948-sort-an-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0948-sort-an-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -275,4 +282,8 @@
 |  |
 | ------- |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->

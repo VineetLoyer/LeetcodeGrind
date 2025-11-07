@@ -26,6 +26,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0493-reverse-pairs) |
@@ -51,6 +52,7 @@
 | [0125-valid-palindrome](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0908-middle-of-the-linked-list) |

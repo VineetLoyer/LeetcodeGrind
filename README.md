@@ -139,6 +139,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1013-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +196,7 @@
 | [0136-single-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1013-fibonacci-number) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Simulation
 |  |
 | ------- |

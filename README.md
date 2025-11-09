@@ -186,6 +186,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1585-the-kth-factor-of-n) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2288-count-operations-to-obtain-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2288-count-operations-to-obtain-zero) |
 | [3227-find-missing-and-repeated-values](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -281,6 +282,7 @@
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2288-count-operations-to-obtain-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Heap (Priority Queue)
 |  |

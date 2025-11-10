@@ -12,6 +12,7 @@
 | [0046-permutations](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0074-search-a-2d-matrix) |
@@ -133,6 +134,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0074-search-a-2d-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -284,6 +286,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0054-spiral-matrix) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |

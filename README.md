@@ -34,6 +34,7 @@
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0347-top-k-frequent-elements) |
+| [0474-ones-and-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0560-subarray-sum-equals-k) |
@@ -102,6 +103,7 @@
 | [0127-word-ladder](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0344-reverse-string) |
+| [0474-ones-and-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Breadth-First Search
@@ -148,6 +150,7 @@
 | [0062-unique-paths](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0474-ones-and-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1013-fibonacci-number) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |

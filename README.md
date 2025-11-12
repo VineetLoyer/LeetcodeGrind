@@ -47,6 +47,7 @@
 | [0645-set-mismatch](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0645-set-mismatch) |
 | [0948-sort-an-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -98,6 +99,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0645-set-mismatch) |
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1741-sort-array-by-increasing-frequency) |
 | [3227-find-missing-and-repeated-values](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -291,6 +293,7 @@
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0560-subarray-sum-equals-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Number Theory
 |  |

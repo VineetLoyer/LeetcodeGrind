@@ -126,6 +126,7 @@
 | [0474-ones-and-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -256,6 +257,7 @@
 | [0169-majority-element](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0347-top-k-frequent-elements) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Combinatorics
 |  |
 | ------- |
@@ -365,6 +367,7 @@
 | [0435-non-overlapping-intervals](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph
 |  |

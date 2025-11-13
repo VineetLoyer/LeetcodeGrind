@@ -4,27 +4,27 @@ class Codec:
         """
         if not strs:
             return ""
-        res = ""
+        result = []
         for s in strs:
-            res += str(len(s))+ '#'+s
-        return res
-        
+            result.append(str(len(s)) + '#' + s)
+        return "".join(result)
 
     def decode(self, s: str) -> List[str]:
         """Decodes a single string to a list of strings.
         """
         if not s:
-            return ""
-        res = []
+            return [""]
         i = 0
-        while i<len(s): #traverse the concatenated string
-            j = i # j traverses the individual strings
-            while s[j]!='#':
-                j+=1
-            length = int(s[i:j]) # we extrace the length of the string convert it to int
-            res.append(s[j+1:j+1+length]) #traverse after # till the length of string we extracted
-            i = j+1+length 
-        return res
+        result = []
+        while i < len(s):
+            j = i
+            while j < len(s) and s[j] != '#':
+                j += 1
+            length = int(s[i:j])
+            j += 1
+            result.append(s[j:j + length])
+            i = j + length
+        return result
 
         
 

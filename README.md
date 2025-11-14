@@ -14,6 +14,7 @@
 | [0031-next-permutation](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0049-group-anagrams) |
@@ -78,6 +79,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0125-valid-palindrome) |
@@ -145,6 +147,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0155-min-stack) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
@@ -179,6 +182,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0118-pascals-triangle) |
@@ -396,6 +400,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0042-trapping-rain-water) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Queue
 |  |

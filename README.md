@@ -89,6 +89,7 @@
 | [0283-move-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0908-middle-of-the-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Backtracking
@@ -114,6 +115,7 @@
 | [0347-top-k-frequent-elements](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0645-set-mismatch) |
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -137,6 +139,7 @@
 | [0344-reverse-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0474-ones-and-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
+| [0567-permutation-in-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0567-permutation-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -310,6 +313,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |

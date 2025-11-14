@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -71,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -376,6 +378,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |

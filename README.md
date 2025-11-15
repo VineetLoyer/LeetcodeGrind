@@ -146,6 +146,7 @@
 | [0567-permutation-in-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0567-permutation-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Breadth-First Search
 |  |
@@ -323,6 +324,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0643-maximum-average-subarray-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
@@ -357,6 +359,7 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0204-count-primes) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Memoization
 |  |
 | ------- |

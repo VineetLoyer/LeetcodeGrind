@@ -1,7 +1,8 @@
 class Solution:
     def findFinalValue(self, nums: List[int], original: int) -> int:
-        num_set = set(nums)
-        result = original
-        while result in num_set:
-            result*=2
-        return result
+        flag = True
+        while flag:
+            if original in nums:
+                original = original * 2
+            else:
+                return original

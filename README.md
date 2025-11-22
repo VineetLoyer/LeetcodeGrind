@@ -128,6 +128,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3227-find-missing-and-repeated-values](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -152,6 +153,7 @@
 | [1146-greatest-common-divisor-of-strings](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Breadth-First Search
@@ -283,6 +285,7 @@
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0645-set-mismatch) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1930-unique-length-3-palindromic-subsequences) |
 ## Recursion
 |  |
 | ------- |
@@ -355,6 +358,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1930-unique-length-3-palindromic-subsequences](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2625-increment-submatrices-by-one) |
 ## Number Theory

@@ -10,7 +10,6 @@ class Solution:
         prev_left = dummy
         for _ in range(left-1):
             prev_left = prev_left.next
-        
         prev = None
         curr = prev_left.next
         for _ in range(right-left+1):

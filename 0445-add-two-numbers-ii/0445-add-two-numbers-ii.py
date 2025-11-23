@@ -6,17 +6,18 @@
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
         def reverse(head):
-            prev = None
             curr = head
+            prev = None
             while curr:
                 nxt = curr.next
                 curr.next = prev
                 prev = curr
-                curr = nxt
+                curr  = nxt
             return prev
         
-        l1  = reverse(l1)
-        l2 =  reverse(l2)
+        l1 = reverse(l1)
+        l2 = reverse(l2)
+
         dummy = ListNode(0)
         curr = dummy
         carry = 0
@@ -30,7 +31,5 @@ class Solution:
 
             l1 = l1.next if l1 else None
             l2 = l2.next if l2 else None
-            
-        
 
-        return reverse(dummy.next)
+        return reverse(dummy.next) # -------7087 -> reverse (7807)

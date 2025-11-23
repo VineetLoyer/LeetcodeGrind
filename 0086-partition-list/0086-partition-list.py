@@ -12,7 +12,7 @@ class Solution:
         current = head
         while current:
             if current.val<x:
-                less.next=current
+                less.next = current
                 less = less.next
             else:
                 more.next = current

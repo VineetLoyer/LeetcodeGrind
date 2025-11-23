@@ -58,6 +58,7 @@
 | [0948-sort-an-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -211,6 +212,7 @@
 | [0435-non-overlapping-intervals](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1013-fibonacci-number) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Divide and Conquer
@@ -242,6 +244,7 @@
 | [0645-set-mismatch](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0645-set-mismatch) |
 | [0759-set-intersection-size-at-least-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0759-set-intersection-size-at-least-two) |
 | [0948-sort-an-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0948-sort-an-array) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Math
@@ -422,6 +425,7 @@
 | [0011-container-with-most-water](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0011-container-with-most-water) |
 | [0435-non-overlapping-intervals](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
 | [0759-set-intersection-size-at-least-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0759-set-intersection-size-at-least-two) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |

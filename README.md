@@ -92,6 +92,7 @@
 | [0088-merge-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0189-rotate-array) |
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0347-top-k-frequent-elements) |
@@ -233,6 +235,7 @@
 | [0056-merge-intervals](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0217-contains-duplicate) |
@@ -319,6 +322,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0948-sort-an-array) |
 ## Ordered Set
@@ -351,6 +355,7 @@
 | [0086-partition-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0908-middle-of-the-linked-list) |

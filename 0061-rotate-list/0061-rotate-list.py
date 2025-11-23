@@ -5,13 +5,16 @@
 #         self.next = next
 class Solution:
     def rotateRight(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
+        #edge cases:
         if not head or not head.next or k==0:
             return head
-        n,tail = 1,head
+        
+        n = 1
+        tail = head 
         while tail.next:
-            tail=tail.next
-            n+=1
-        k = k%n
+            tail=tail.next # finding the tail
+            n+=1 # count the total number of nodes in LL 
+        k = k%n #if LL length is 5, and rotate = 12 -> it would be same as rotating by k=2.
         if k==0:
             return head
         tail.next = head

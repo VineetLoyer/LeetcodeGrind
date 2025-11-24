@@ -1,64 +1,68 @@
-# Definition for singly-linked list.
-# class ListNode:
-#     def __init__(self, val=0, next=None):
-#         self.val = val
-#         self.next = next
 class Solution:
-    def sortList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        if not head or not head.next:
+    def sortList(self, head: ListNode) -> ListNode:
+        if head is None or head.next is None:
             return head
-        # 1. Calculate Length (n)
-        n = 0
-        curr = head
-        while curr:
-            n+=1
-            curr = curr.next
-        # Helper to merge two sorted lists(l1,l2) and return (head,tail)
-        def merge(l1:ListNode, l2:ListNode) -> (ListNode,ListNode):
-            dummy = ListNode(0)
-            tail=dummy
-            while l1 and l2:
-                if l1.val<=l2.val:
-                    tail.next = l1
-                    l1 = l1.next
-                else:
-                    tail.next = l2
-                    l2 = l2.next
-                tail = tail.next
-            tail.next = l1 if l1 else l2
-            while tail.next:
-                tail = tail.next
-            return dummy.next,tail
-        # Main iterative bottom-up loop
-        dummy = ListNode(0)
-        dummy.next = head
-        step = 1
-        while step<n:
-            curr = dummy.next
-            tail = dummy
-            while curr:
-                l1 = curr
-                l1_tail = l1
-                for _ in range(step-1):
-                    if l1_tail:
-                        l1_tail = l1_tail.next
-                if not l1_tail:
-                    tail.next = l1
+        n = self.getCount(head)
+        start = head
+        dummyHead = ListNode()
+        size = 1
+        while size < n:
+            self.tail = dummyHead
+            while start is not None:
+                if start.next is None:
+                    self.tail.next = start
                     break
-                
-                l2 = l1_tail.next
-                l1_tail.next = None
-                l2_tail = l2
-                for _ in range(step-1):
-                    if l2_tail:
-                        l2_tail = l2_tail.next
-                next_curr = None
-                if l2_tail:
-                    next_curr = l2_tail.next
-                    l2_tail.next = None
-                merged_head,merged_tail = merge(l1,l2)
-                tail.next = merged_head
-                tail = merged_tail
-                curr = next_curr
-            step*=2
-        return dummy.next
+                mid = self.split(start, size)
+                self.merge(start, mid)
+                start = self.nextSubList
+            start = dummyHead.next
+            size *= 2
+        return dummyHead.next
+
+    def split(self, start, size):
+        midPrev = start
+        end = start.next
+        # Use fast and slow approach to find middle and end of second linked list
+        for index in range(1, size):
+            if end and end.next:
+                end = end.next.next
+            else:
+                if end:
+                    end = end.next
+            if midPrev.next:
+                midPrev = midPrev.next
+        mid = midPrev.next
+        midPrev.next = None
+        self.nextSubList = end.next if end else None
+        if end:
+            end.next = None
+        # Return the start of second linked list
+        return mid
+
+    def merge(self, list1, list2):
+        dummyHead = ListNode()
+        newTail = dummyHead
+        while list1 and list2:
+            if list1.val < list2.val:
+                newTail.next = list1
+                list1 = list1.next
+            else:
+                newTail.next = list2
+                list2 = list2.next
+            newTail = newTail.next
+        newTail.next = list1 if list1 else list2
+        # Traverse till the end of merged list to get the newTail
+        while newTail.next:
+            newTail = newTail.next
+        # Link the old tail with the head of merged list
+        self.tail.next = dummyHead.next
+        # Update the old tail to the new tail of merged list
+        self.tail = newTail
+
+    def getCount(self, head):
+        cnt = 0
+        ptr = head
+        while ptr:
+            ptr = ptr.next
+            cnt += 1
+        return cnt

@@ -59,6 +59,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1019-next-greater-node-in-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1019-next-greater-node-in-linked-list) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -176,6 +177,7 @@
 | [0155-min-stack](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1019-next-greater-node-in-linked-list) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
@@ -377,6 +379,7 @@
 | [0708-insert-into-a-sorted-circular-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0708-insert-into-a-sorted-circular-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0908-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1019-next-greater-node-in-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
@@ -467,6 +470,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0042-trapping-rain-water) |
+| [1019-next-greater-node-in-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1019-next-greater-node-in-linked-list) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Queue
 |  |

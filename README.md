@@ -139,6 +139,7 @@
 | [1016-subarray-sums-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3227-find-missing-and-repeated-values](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3227-find-missing-and-repeated-values) |
@@ -389,6 +390,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |

@@ -276,6 +276,7 @@
 | [0189-rotate-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0268-missing-number) |
+| [0369-plus-one-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0369-plus-one-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -383,6 +384,7 @@
 | [0234-palindrome-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0328-odd-even-linked-list) |
+| [0369-plus-one-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0369-plus-one-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0445-add-two-numbers-ii) |
 | [0708-insert-into-a-sorted-circular-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0708-insert-into-a-sorted-circular-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0725-split-linked-list-in-parts) |

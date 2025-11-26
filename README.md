@@ -312,6 +312,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0206-reverse-linked-list) |
@@ -368,6 +369,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0086-partition-list) |

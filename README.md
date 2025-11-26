@@ -105,6 +105,7 @@
 | [0344-reverse-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0908-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Backtracking
@@ -385,6 +386,7 @@
 | [0908-middle-of-the-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0908-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1019-next-greater-node-in-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |

@@ -62,6 +62,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1019-next-greater-node-in-linked-list) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1590-make-sum-divisible-by-p](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -140,6 +141,7 @@
 | [1015-smallest-integer-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1590-make-sum-divisible-by-p](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1590-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1930-unique-length-3-palindromic-subsequences) |
@@ -408,6 +410,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1590-make-sum-divisible-by-p](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2625-increment-submatrices-by-one) |

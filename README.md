@@ -81,6 +81,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
@@ -152,6 +153,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## String
@@ -298,6 +300,7 @@
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -502,4 +505,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0239-sliding-window-maximum) |
+## Geometry
+|  |
+| ------- |
+| [3625-count-number-of-trapezoids-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3625-count-number-of-trapezoids-ii) |
 <!---LeetCode Topics End-->

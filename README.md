@@ -174,6 +174,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2211-count-collisions-on-a-road](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2211-count-collisions-on-a-road) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Breadth-First Search
@@ -190,6 +191,7 @@
 | [0234-palindrome-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1019-next-greater-node-in-linked-list) |
+| [2211-count-collisions-on-a-road](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2211-count-collisions-on-a-road) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Design
 |  |
@@ -442,6 +444,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0054-spiral-matrix) |
+| [2211-count-collisions-on-a-road](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2211-count-collisions-on-a-road) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2288-count-operations-to-obtain-zero) |

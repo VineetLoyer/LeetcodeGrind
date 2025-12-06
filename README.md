@@ -79,6 +79,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -239,6 +240,7 @@
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -380,6 +382,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Linked List
@@ -423,6 +426,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Number Theory
 |  |
 | ------- |
@@ -498,6 +502,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0239-sliding-window-maximum) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -508,6 +513,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0239-sliding-window-maximum) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Geometry
 |  |
 | ------- |

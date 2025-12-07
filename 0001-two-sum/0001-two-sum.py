@@ -5,4 +5,4 @@ class Solution:
             diff = target - n
             if diff in hm:
                 return [hm[diff],i]
-            hm[n]=i
+            hm[n] = i

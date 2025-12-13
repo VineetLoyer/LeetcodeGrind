@@ -57,6 +57,7 @@
 | [0645-set-mismatch](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0759-set-intersection-size-at-least-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0759-set-intersection-size-at-least-two) |
+| [0825-friends-of-appropriate-ages](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0905-sort-array-by-parity) |
@@ -131,6 +132,7 @@
 | [0633-sum-of-square-numbers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0763-partition-labels) |
+| [0825-friends-of-appropriate-ages](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0905-sort-array-by-parity) |
@@ -316,6 +318,7 @@
 | [0611-valid-triangle-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0645-set-mismatch) |
 | [0759-set-intersection-size-at-least-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0759-set-intersection-size-at-least-two) |
+| [0825-friends-of-appropriate-ages](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0825-friends-of-appropriate-ages) |
 | [0881-boats-to-save-people](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0905-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0948-sort-an-array) |
@@ -375,6 +378,7 @@
 | [0493-reverse-pairs](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0633-sum-of-square-numbers) |
+| [0825-friends-of-appropriate-ages](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0825-friends-of-appropriate-ages) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |

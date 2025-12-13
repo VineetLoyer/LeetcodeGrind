@@ -138,6 +138,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2396-strictly-palindromic-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -341,6 +342,7 @@
 | [1925-count-square-sum-triples](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1925-count-square-sum-triples) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2288-count-operations-to-obtain-zero) |
+| [2396-strictly-palindromic-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2396-strictly-palindromic-number) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3227-find-missing-and-repeated-values) |
@@ -576,5 +578,6 @@
 ## Brainteaser
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2396-strictly-palindromic-number) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 <!---LeetCode Topics End-->

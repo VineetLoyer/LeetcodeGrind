@@ -59,6 +59,7 @@
 | [0832-flipping-an-image](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0905-sort-array-by-parity) |
+| [0942-di-string-match](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0942-di-string-match) |
 | [0948-sort-an-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0977-squares-of-a-sorted-array) |
@@ -128,6 +129,7 @@
 | [0881-boats-to-save-people](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0905-sort-array-by-parity) |
 | [0908-middle-of-the-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0908-middle-of-the-linked-list) |
+| [0942-di-string-match](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -195,6 +197,7 @@
 | [0474-ones-and-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0680-valid-palindrome-ii) |
+| [0942-di-string-match](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0942-di-string-match) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -533,6 +536,7 @@
 | [0680-valid-palindrome-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0680-valid-palindrome-ii) |
 | [0759-set-intersection-size-at-least-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0759-set-intersection-size-at-least-two) |
 | [0881-boats-to-save-people](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0881-boats-to-save-people) |
+| [0942-di-string-match](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0942-di-string-match) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1877-minimize-maximum-pair-sum-in-array) |

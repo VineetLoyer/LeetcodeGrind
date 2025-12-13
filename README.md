@@ -125,6 +125,7 @@
 | [0344-reverse-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0763-partition-labels) |
 | [0832-flipping-an-image](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0832-flipping-an-image) |
@@ -334,6 +335,7 @@
 | [0268-missing-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0268-missing-number) |
 | [0369-plus-one-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0369-plus-one-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0445-add-two-numbers-ii) |
+| [0633-sum-of-square-numbers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0633-sum-of-square-numbers) |
 | [1013-fibonacci-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1090-armstrong-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1090-armstrong-number) |
@@ -363,6 +365,7 @@
 | [0268-missing-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0493-reverse-pairs) |
+| [0633-sum-of-square-numbers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0633-sum-of-square-numbers) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |

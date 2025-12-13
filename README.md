@@ -73,6 +73,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1590-make-sum-divisible-by-p) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1813-sentence-similarity-iii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1813-sentence-similarity-iii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -138,6 +139,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1813-sentence-similarity-iii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1813-sentence-similarity-iii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -210,6 +212,7 @@
 | [1636-number-of-substrings-with-only-1s](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
+| [1813-sentence-similarity-iii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1813-sentence-similarity-iii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2211-count-collisions-on-a-road) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |

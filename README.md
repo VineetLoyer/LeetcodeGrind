@@ -97,6 +97,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -191,6 +192,7 @@
 | [3531-count-covered-buildings](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
+| [3606-coupon-code-validator](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
@@ -223,6 +225,7 @@
 | [2211-count-collisions-on-a-road](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2211-count-collisions-on-a-road) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3606-coupon-code-validator](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3606-coupon-code-validator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -335,6 +338,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3606-coupon-code-validator) |
 ## Math
 |  |
 | ------- |

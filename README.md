@@ -153,6 +153,7 @@
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2396-strictly-palindromic-number) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Backtracking
 |  |
 | ------- |
@@ -227,6 +228,7 @@
 | [1813-sentence-similarity-iii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1813-sentence-similarity-iii) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2211-count-collisions-on-a-road](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2211-count-collisions-on-a-road) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3606-coupon-code-validator) |
@@ -583,6 +585,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph

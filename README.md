@@ -70,6 +70,7 @@
 | [0948-bag-of-tokens](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0948-bag-of-tokens) |
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0986-interval-list-intersections) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1019-next-greater-node-in-linked-list) |
@@ -155,6 +156,7 @@
 | [0942-di-string-match](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0942-di-string-match) |
 | [0948-bag-of-tokens](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1089-duplicate-zeros) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -643,4 +645,8 @@
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2396-strictly-palindromic-number) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Line Sweep
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->

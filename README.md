@@ -48,6 +48,7 @@
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0485-max-consecutive-ones) |
@@ -133,6 +134,7 @@
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0541-reverse-string-ii) |
@@ -183,6 +185,7 @@
 | [0268-missing-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0268-missing-number) |
 | [0325-maximum-size-subarray-sum-equals-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0325-maximum-size-subarray-sum-equals-k) |
 | [0347-top-k-frequent-elements](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0567-permutation-in-string) |
@@ -340,6 +343,7 @@
 | [0242-valid-anagram](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0611-valid-triangle-number) |
@@ -404,6 +408,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0633-sum-of-square-numbers) |

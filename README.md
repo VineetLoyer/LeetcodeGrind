@@ -133,6 +133,7 @@
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0567-permutation-in-string) |
@@ -220,6 +221,7 @@
 | [0271-encode-and-decode-strings](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0443-string-compression) |
 | [0474-ones-and-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
@@ -299,6 +301,7 @@
 | [0118-pascals-triangle](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1013-fibonacci-number) |

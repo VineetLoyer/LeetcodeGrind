@@ -128,6 +128,7 @@
 | [0086-partition-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0151-reverse-words-in-a-string) |
@@ -183,6 +184,7 @@
 | [0073-set-matrix-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0217-contains-duplicate) |
@@ -507,6 +509,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0092-reverse-linked-list-ii) |
+| [0141-linked-list-cycle](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0148-sort-list) |

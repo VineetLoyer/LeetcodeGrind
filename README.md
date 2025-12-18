@@ -79,6 +79,7 @@
 | [1019-next-greater-node-in-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1089-duplicate-zeros) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1590-make-sum-divisible-by-p](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1590-make-sum-divisible-by-p) |
@@ -168,6 +169,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0986-interval-list-intersections) |
 | [1089-duplicate-zeros](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
@@ -384,6 +386,7 @@
 | [0948-bag-of-tokens](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0977-squares-of-a-sorted-array) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -444,6 +447,7 @@
 | [0611-valid-triangle-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0633-sum-of-square-numbers) |
 | [0825-friends-of-appropriate-ages](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0825-friends-of-appropriate-ages) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |

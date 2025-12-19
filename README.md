@@ -274,6 +274,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0199-binary-tree-right-side-view) |
+| [2092-find-all-people-with-secret](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
@@ -300,6 +301,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0199-binary-tree-right-side-view) |
+| [2092-find-all-people-with-secret](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
@@ -391,6 +393,7 @@
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2092-find-all-people-with-secret](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3433-count-mentions-per-user](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3433-count-mentions-per-user) |
@@ -508,6 +511,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0128-longest-consecutive-sequence) |
+| [2092-find-all-people-with-secret](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
 |  |
@@ -649,6 +653,7 @@
 ## Graph
 |  |
 | ------- |
+| [2092-find-all-people-with-secret](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |

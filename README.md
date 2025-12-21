@@ -267,6 +267,7 @@
 | [0917-reverse-only-letters](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0944-delete-columns-to-make-sorted) |
+| [1143-longest-common-subsequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1143-longest-common-subsequence) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -346,6 +347,7 @@
 | [0435-non-overlapping-intervals](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0435-non-overlapping-intervals) |
 | [0474-ones-and-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0474-ones-and-zeroes) |
 | [1013-fibonacci-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1143-longest-common-subsequence) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |

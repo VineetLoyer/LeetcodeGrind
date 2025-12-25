@@ -3,19 +3,23 @@ class Solution:
         nums.sort()
         closest_sum = nums[0]+nums[1]+nums[2]
         for i in range(len(nums)-2):
-            left = i+1
-            right = len(nums)-1
+            if i>0 and nums[i]==nums[i-1]:
+                continue
+            left,right = i+1,len(nums)-1
             while left<right:
-                total = nums[i] + nums[left] + nums[right]
-                if abs(target - total) < abs(target - closest_sum):
-                    closest_sum = total
-                if total < target:
+                cur_sum = nums[i]+nums[left]+nums[right]
+                if abs(target-cur_sum)<abs(target-closest_sum):
+                    closest_sum = cur_sum
+                if cur_sum==target:
+                    return target
+                if cur_sum<target:
                     left+=1
-                elif total > target:
-                    right-=1
+                    while left<right and nums[left]==nums[left-1]:
+                        left+=1
+                    
                 else:
-                    break
-
+                    right-=1
+                    while left<right and nums[right]==nums[right+1]:
+                        right-=1
         return closest_sum
-
 

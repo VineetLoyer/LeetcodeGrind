@@ -1,20 +1,23 @@
 class Solution:
     def validPalindrome(self, s: str) -> bool:
-        left = 0
-        right = len(s)-1
+        left=0
+        right=len(s)-1
         
-        def ispal(i,j):
-            while i<j:
-                if s[i]!=s[j]:
+        def is_pal(left,right):
+            l = left
+            r = right
+            while l<r:
+                if s[l]!=s[r]:
                     return False
-                i+=1
-                j-=1
+                l+=1
+                r-=1
             return True
 
-        while left < right:
+        while left<right:
             if s[left]!=s[right]:
-                return ispal(left+1,right) or ispal(left,right-1)
-            
+                return is_pal(left+1,right) or is_pal(left,right-1)
             left+=1
             right-=1
+        
         return True
+

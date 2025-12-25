@@ -104,6 +104,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2625-increment-submatrices-by-one) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3227-find-missing-and-repeated-values](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -418,6 +419,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3606-coupon-code-validator) |
@@ -678,6 +680,7 @@
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Graph

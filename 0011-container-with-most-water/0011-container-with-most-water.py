@@ -3,12 +3,12 @@ class Solution:
         left = 0
         right = len(height)-1
         max_area = 0
-        while left < right:
-            breadth = right - left
-            length = min(height[left],height[right])
-            current_area = length * breadth
-            if current_area>max_area:
-                max_area = current_area
+        while left<right:
+            width = right-left
+            heights=min(height[left],height[right])
+            cur_area = width*heights
+            if cur_area>max_area:
+                max_area=cur_area
             if height[left]<height[right]:
                 left+=1
             else:

@@ -3,9 +3,8 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        index = 0
-        for j in range(len(nums)):
-            if nums[j]!=0:
-                nums[index],nums[j] = nums[j],nums[index]
+        index=0
+        for fast in range(len(nums)):
+            if nums[fast]!=0:
+                nums[index],nums[fast]=nums[fast],nums[index]
                 index+=1
-        

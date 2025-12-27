@@ -99,6 +99,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2402-meeting-rooms-iii) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2625-increment-submatrices-by-one) |
@@ -233,6 +234,7 @@
 | [1836-remove-duplicates-from-an-unsorted-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1836-remove-duplicates-from-an-unsorted-linked-list) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2402-meeting-rooms-iii) |
 | [3227-find-missing-and-repeated-values](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3227-find-missing-and-repeated-values) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -418,6 +420,7 @@
 | [2092-find-all-people-with-secret](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3433-count-mentions-per-user) |
@@ -628,6 +631,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2402-meeting-rooms-iii) |
 | [3433-count-mentions-per-user](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3433-count-mentions-per-user) |
 ## Heap (Priority Queue)
 |  |
@@ -638,6 +642,7 @@
 | [0948-sort-an-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0948-sort-an-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2054-two-best-non-overlapping-events) |
+| [2402-meeting-rooms-iii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2402-meeting-rooms-iii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |

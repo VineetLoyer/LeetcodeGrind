@@ -9,5 +9,5 @@ class Solution:
             if wordsDict[i]==word2:
                 index2 = i
             if index1!=-1 and index2!=-1:
-                min_dis = min(min_dis, abs(index2-index1))
+                min_dis = min(min_dis,abs(index2-index1))
         return min_dis

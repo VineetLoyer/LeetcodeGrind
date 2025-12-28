@@ -9,7 +9,7 @@ class Solution:
             while odd_ptr<n and nums[odd_ptr]%2!=0:
                 odd_ptr+=2
             if even_ptr<n and odd_ptr<n:
-                nums[even_ptr],nums[odd_ptr] = nums[odd_ptr],nums[even_ptr]
+                nums[even_ptr],nums[odd_ptr]=nums[odd_ptr],nums[even_ptr]
                 even_ptr+=2
                 odd_ptr+=2
         return nums

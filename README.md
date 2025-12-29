@@ -196,6 +196,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0046-permutations) |
+| [0756-pyramid-transition-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0756-pyramid-transition-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0645-set-mismatch) |
+| [0756-pyramid-transition-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0763-partition-labels) |
 | [0888-fair-candy-swap](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0888-fair-candy-swap) |
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
@@ -270,6 +272,7 @@
 | [0541-reverse-string-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0680-valid-palindrome-ii) |
+| [0756-pyramid-transition-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0763-partition-labels) |
 | [0917-reverse-only-letters](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0917-reverse-only-letters) |
 | [0942-di-string-match](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0942-di-string-match) |
@@ -496,6 +499,7 @@
 | [0268-missing-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0645-set-mismatch) |
+| [0756-pyramid-transition-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0756-pyramid-transition-matrix) |
 | [0832-flipping-an-image](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |

@@ -66,6 +66,7 @@
 | [0759-set-intersection-size-at-least-two](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0759-set-intersection-size-at-least-two) |
 | [0825-friends-of-appropriate-ages](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0825-friends-of-appropriate-ages) |
 | [0832-flipping-an-image](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0832-flipping-an-image) |
+| [0840-magic-squares-in-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0840-magic-squares-in-grid) |
 | [0881-boats-to-save-people](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0905-sort-array-by-parity) |
@@ -227,6 +228,7 @@
 | [0645-set-mismatch](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0756-pyramid-transition-matrix) |
 | [0763-partition-labels](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0763-partition-labels) |
+| [0840-magic-squares-in-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0840-magic-squares-in-grid) |
 | [0888-fair-candy-swap](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0888-fair-candy-swap) |
 | [0966-binary-subarrays-with-sum](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0966-binary-subarrays-with-sum) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -340,6 +342,7 @@
 | [0073-set-matrix-zeroes](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0074-search-a-2d-matrix) |
 | [0832-flipping-an-image](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0832-flipping-an-image) |
+| [0840-magic-squares-in-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0840-magic-squares-in-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -448,6 +451,7 @@
 | [0369-plus-one-linked-list](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0369-plus-one-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0633-sum-of-square-numbers) |
+| [0840-magic-squares-in-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1090-armstrong-number](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1090-armstrong-number) |

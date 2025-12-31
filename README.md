@@ -94,6 +94,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-sentence-similarity-iii](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1813-sentence-similarity-iii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2054-two-best-non-overlapping-events) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -299,6 +300,7 @@
 | ------- |
 | [0127-word-ladder](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0199-binary-tree-right-side-view) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## Stack
@@ -326,6 +328,7 @@
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0199-binary-tree-right-side-view) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
@@ -345,6 +348,7 @@
 | [0840-magic-squares-in-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0840-magic-squares-in-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2625-increment-submatrices-by-one](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2625-increment-submatrices-by-one) |
@@ -493,6 +497,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -553,6 +558,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/0128-longest-consecutive-sequence) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/2092-find-all-people-with-secret) |
 | [3863-power-grid-maintenance](https://github.com/VineetLoyer/LeetcodeGrind/tree/master/3863-power-grid-maintenance) |
 ## Sliding Window
